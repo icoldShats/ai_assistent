@@ -2,7 +2,8 @@
 
 Ссылка на проект - t.me/incruises_Saule_bot.
 
-1[Скриншот 1].(https://github.com/icoldShats/ai_assistent/blob/main/Снимок%20экрана%202026-01-13%20в%2015.35.58.png?raw=true).
+1[Скриншот 1].([https://github.com/icoldShats/ai_assistent/blob/main/Снимок%20экрана%202026-01-13%20в%2015.35.58.png?raw=true](https://github.com/icoldShats/ai_assistent/blob/main/Снимок%20экрана%202026-01-13%20в%2015.35.58.png?raw=true)<img width="2194" height="1846" alt="image" src="https://github.com/user-attachments/assets/1508a204-308b-45ff-80c4-18597943019a" />
+).
 
 > **Название проекта**: *ИИ-ассистент для привлечения клиентов в компанию inCruises*  
 > **Цель**: Автоматизировать первичное взаимодействие с потенциальными клиентами, отвечать на их вопросы и записывать заинтересованных на персональную встречу — всё это 24/7, без участия человека.
